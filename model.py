@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-"""
 """
 salary prediction model depend on ,experience ,test score ,interview score 
 
